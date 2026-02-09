@@ -184,5 +184,5 @@ void deletion_pos(int n){
         ptr->next=temp->next;
         free(temp);
     }
-
+  
 }
